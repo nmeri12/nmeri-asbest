@@ -1491,8 +1491,8 @@ img.zoom {
     position: fixed;
     width: 70px;
     height: 70px;
-    bottom: 40%;
-    left: 25px;
+    bottom: 5%;
+    left: 20px;
     background-color: #25d366;
     color: #FFF;
     border-radius: 50px;
@@ -1502,7 +1502,7 @@ img.zoom {
     z-index: 100;
 }
 .float:hover{
-    color:#0f5132;
+    color:whitesmoke;
     box-shadow: 3px 3px 4px #20c997;
 }
 .my-float{
